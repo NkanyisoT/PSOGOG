@@ -1,0 +1,1516 @@
+# depslib dependency file v1.0
+1460653504 source:c:\users\basimzoh\documents\1 school\2016\semester1\comp\comp315\projext stuff\newworld\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"world.h"
+
+1460652594 source:c:\users\basimzoh\documents\1 school\2016\semester1\comp\comp315\projext stuff\newworld\world.cpp
+	"world.h"
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+
+1460646783 c:\users\basimzoh\documents\1 school\2016\semester1\comp\comp315\projext stuff\newworld\world.h
+
+1461522618 source:c:\users\nkanyiso\desktop\newworld\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"world.h"
+	"Movement.h"
+	"gameworld.h"
+	"Light.h"
+	"character.h"
+	"mouse.h"
+
+1461360572 c:\users\nkanyiso\desktop\newworld\include\world.h
+
+1460290227 source:c:\users\nkanyiso\desktop\newworld\src\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1460366858 c:\users\nkanyiso\desktop\newworld\include\imageloader.h
+
+1461528000 source:c:\users\nkanyiso\desktop\newworld\src\world.cpp
+	"world.h"
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"imageloader.h"
+
+1460905052 c:\users\nkanyiso\desktop\newworld\include\movement.h
+
+1460063270 c:\users\nkanyiso\desktop\newworld\include\gameworld.h
+
+1460066370 c:\users\nkanyiso\desktop\newworld\include\light.h
+	<GL/glut.h>
+
+1460369276 c:\users\nkanyiso\desktop\newworld\include\character.h
+
+1461524766 c:\users\nkanyiso\desktop\newworld\include\mouse.h
+
+1460371106 source:c:\users\nkanyiso\desktop\newworld\src\character.cpp
+	<GL/glut.h>
+	<windows.h>
+	"character.h"
+	<math.h>
+
+1460292902 source:c:\users\nkanyiso\desktop\newworld\src\gameworld.cpp
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"gameworld.h"
+	"character.h"
+
+1460066382 source:c:\users\nkanyiso\desktop\newworld\src\light.cpp
+	"Light.h"
+	<vector>
+
+1461527635 source:c:\users\nkanyiso\desktop\newworld\src\mouse.cpp
+	"mouse.h"
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1460926730 source:c:\users\nkanyiso\desktop\newworld\src\movement.cpp
+	<GL/glut.h>
+	<iostream>
+	<math.h>
+	"Movement.h"
+
+1462210545 source:c:\users\nkanyiso\desktop\newworld - copy\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"world.h"
+	"Light.h"
+	"Charecter.h"
+	"mouse.h"
+	<thread>
+	"ObjLoader.h"
+	"animation.h"
+	<mmsystem.h>
+	"Canon.h"
+	"item.h"
+	"collision.h"
+	"helperCollision.h"
+	<string>
+
+1462185837 c:\users\nkanyiso\desktop\newworld - copy\include\world.h
+	"helperCollision.h"
+	"plane.h"
+	<vector>
+
+1461533043 c:\users\nkanyiso\desktop\newworld - copy\include\movement.h
+
+1460063270 c:\users\nkanyiso\desktop\newworld - copy\include\gameworld.h
+
+1460066370 c:\users\nkanyiso\desktop\newworld - copy\include\light.h
+	<GL/glut.h>
+
+1460369276 c:\users\nkanyiso\desktop\newworld - copy\include\character.h
+
+1462206946 c:\users\nkanyiso\desktop\newworld - copy\include\mouse.h
+	"point.h"
+	"Sphere.h"
+	<vector>
+	"plane.h"
+	"helperCollision.h"
+
+1460290227 source:c:\users\nkanyiso\desktop\newworld - copy\src\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1460366858 c:\users\nkanyiso\desktop\newworld - copy\include\imageloader.h
+
+1462208954 source:c:\users\nkanyiso\desktop\newworld - copy\src\world.cpp
+	"world.h"
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"imageloader.h"
+
+1460371106 source:c:\users\nkanyiso\desktop\newworld - copy\src\character.cpp
+	<GL/glut.h>
+	<windows.h>
+	"character.h"
+	<math.h>
+
+1461891583 source:c:\users\nkanyiso\desktop\newworld - copy\src\gameworld.cpp
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"gameworld.h"
+	"charecter.h"
+
+1461533873 source:c:\users\nkanyiso\desktop\newworld - copy\src\light.cpp
+	"Light.h"
+	<vector>
+
+1461533043 source:c:\users\nkanyiso\desktop\newworld - copy\src\movement.cpp
+	<GL/glut.h>
+	<iostream>
+	<math.h>
+	"Movement.h"
+
+1462210757 source:c:\users\nkanyiso\desktop\newworld - copy\src\mouse.cpp
+	"mouse.h"
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1461888400 source:c:\users\nkanyiso\desktop\newworld - copy\src\animation.cpp
+	"animation.h"
+
+1461888360 c:\users\nkanyiso\desktop\newworld - copy\include\animation.h
+
+1462195628 c:\users\nkanyiso\desktop\newworld - copy\include\charecter.h
+	"animation.h"
+	"ObjLoader.h"
+	"Sphere.h"
+	<string>
+
+1461600942 c:\users\nkanyiso\desktop\newworld - copy\include\objloader.h
+	<string>
+	<vector>
+	"point.h"
+	"face.h"
+
+1460927286 c:\users\nkanyiso\desktop\newworld - copy\include\point.h
+
+1461600006 c:\users\nkanyiso\desktop\newworld - copy\include\face.h
+
+1462147654 c:\users\nkanyiso\desktop\newworld - copy\include\sphere.h
+	"point.h"
+	"Collidable.h"
+	<vector>
+
+1462195927 source:c:\users\nkanyiso\desktop\newworld - copy\src\charecter.cpp
+	"Charecter.h"
+	"ObjLoader.h"
+	<windows.h>
+	<GL/glut.h>
+	"animation.h"
+	<string>
+	"ObjLoader.h"
+
+1460925390 source:c:\users\nkanyiso\desktop\newworld - copy\src\collision.cpp
+	<math.h>
+	"collision.h"
+	"point.h"
+	"Sphere.h"
+	"plane.h"
+
+1460361802 c:\users\nkanyiso\desktop\newworld - copy\include\collision.h
+	"Sphere.h"
+	"plane.h"
+	"point.h"
+
+1462147878 c:\users\nkanyiso\desktop\newworld - copy\include\plane.h
+	<vector>
+	"point.h"
+	"myVector.h"
+	"Collidable.h"
+
+1460927770 c:\users\nkanyiso\desktop\newworld - copy\include\myvector.h
+	"point.h"
+
+1461603628 source:c:\users\nkanyiso\desktop\newworld - copy\src\face.cpp
+	"face.h"
+
+1460927770 source:c:\users\nkanyiso\desktop\newworld - copy\src\myvector.cpp
+	"myVector.h"
+	<math.h>
+
+1461602196 source:c:\users\nkanyiso\desktop\newworld - copy\src\objloader.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<istream>
+	<sstream>
+	<stdio.h>
+	<GL/glut.h>
+	"point.h"
+	"ObjLoader.h"
+	"face.h"
+
+1462203504 source:c:\users\nkanyiso\desktop\newworld - copy\src\plane.cpp
+	<vector>
+	<iostream>
+	<cmath>
+	"plane.h"
+	"Sphere.h"
+	"myVector.h"
+	"helperCollision.h"
+
+1460924944 source:c:\users\nkanyiso\desktop\newworld - copy\src\point.cpp
+	"myVector.h"
+
+1462203504 source:c:\users\nkanyiso\desktop\newworld - copy\src\sphere.cpp
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	"Sphere.h"
+	"point.h"
+
+1461896090 source:c:\users\nkanyiso\desktop\newworld - copy\src\canon.cpp
+	"Canon.h"
+	<GL/freeglut.h>
+
+1461896347 c:\users\nkanyiso\desktop\newworld - copy\include\canon.h
+
+1461895720 c:\users\nkanyiso\desktop\newworld - copy\include\helpercollision.h
+	"Sphere.h"
+	"plane.h"
+	<vector>
+
+1462133728 c:\users\nkanyiso\desktop\newworld - copy\include\item.h
+	"point.h"
+
+1462134420 source:c:\users\nkanyiso\desktop\newworld - copy\src\item.cpp
+	"item.h"
+	<math.h>
+	<GL/glut.h>
+	<iostream>
+
+1461879534 source:c:\users\nkanyiso\desktop\newworld - copy\src\score.cpp
+	"score.h"
+
+1462206911 c:\users\nkanyiso\desktop\newworld - copy\include\score.h
+
+1462209795 source:c:\users\nkanyiso\desktop\newworld - copy\src\helpercollision.cpp
+	"helperCollision.h"
+	"point.h"
+	"plane.h"
+	"Sphere.h"
+	<vector>
+	<math.h>
+
+1462147786 c:\users\nkanyiso\desktop\newworld - copy\include\collidable.h
+
+1462147878 source:c:\users\nkanyiso\desktop\newworld - copy\src\collidable.cpp
+	"Collidable.h"
+
+1461888402 source:c:\users\t.s\desktop\latest project 2.0\src\animation.cpp
+	"animation.h"
+
+1461888362 c:\users\t.s\desktop\latest project 2.0\include\animation.h
+
+1461896092 source:c:\users\t.s\desktop\latest project 2.0\src\canon.cpp
+	"Canon.h"
+	<GL/freeglut.h>
+
+1461896348 c:\users\t.s\desktop\latest project 2.0\include\canon.h
+
+1462276234 source:c:\users\t.s\desktop\latest project 2.0\src\charecter.cpp
+	"Charecter.h"
+	"ObjLoader.h"
+	<windows.h>
+	<GL/glut.h>
+	"animation.h"
+	<string>
+	"ObjLoader.h"
+
+1462195630 c:\users\t.s\desktop\latest project 2.0\include\charecter.h
+	"animation.h"
+	"ObjLoader.h"
+	"Sphere.h"
+	<string>
+
+1462213439 c:\users\t.s\desktop\latest project 2.0\include\objloader.h
+	<string>
+	<vector>
+	"point.h"
+	"face.h"
+
+1460927286 c:\users\t.s\desktop\latest project 2.0\include\point.h
+
+1461600006 c:\users\t.s\desktop\latest project 2.0\include\face.h
+
+1462147654 c:\users\t.s\desktop\latest project 2.0\include\sphere.h
+	"point.h"
+	"Collidable.h"
+	<vector>
+
+1462147786 c:\users\t.s\desktop\latest project 2.0\include\collidable.h
+
+1462147878 source:c:\users\t.s\desktop\latest project 2.0\src\collidable.cpp
+	"Collidable.h"
+
+1460925390 source:c:\users\t.s\desktop\latest project 2.0\src\collision.cpp
+	<math.h>
+	"collision.h"
+	"point.h"
+	"Sphere.h"
+	"plane.h"
+
+1460361802 c:\users\t.s\desktop\latest project 2.0\include\collision.h
+	"Sphere.h"
+	"plane.h"
+	"point.h"
+
+1462147878 c:\users\t.s\desktop\latest project 2.0\include\plane.h
+	<vector>
+	"point.h"
+	"myVector.h"
+	"Collidable.h"
+
+1460927770 c:\users\t.s\desktop\latest project 2.0\include\myvector.h
+	"point.h"
+
+1461603628 source:c:\users\t.s\desktop\latest project 2.0\src\face.cpp
+	"face.h"
+
+1461891584 source:c:\users\t.s\desktop\latest project 2.0\src\gameworld.cpp
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"gameworld.h"
+	"charecter.h"
+
+1460063270 c:\users\t.s\desktop\latest project 2.0\include\gameworld.h
+
+1462209796 source:c:\users\t.s\desktop\latest project 2.0\src\helpercollision.cpp
+	"helperCollision.h"
+	"point.h"
+	"plane.h"
+	"Sphere.h"
+	<vector>
+	<math.h>
+
+1461895720 c:\users\t.s\desktop\latest project 2.0\include\helpercollision.h
+	"Sphere.h"
+	"plane.h"
+	<vector>
+
+1460290228 source:c:\users\t.s\desktop\latest project 2.0\src\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1460366860 c:\users\t.s\desktop\latest project 2.0\include\imageloader.h
+
+1462274738 source:c:\users\t.s\desktop\latest project 2.0\src\item.cpp
+	"item.h"
+	<math.h>
+	<GL/glut.h>
+	<iostream>
+
+1462133728 c:\users\t.s\desktop\latest project 2.0\include\item.h
+	"point.h"
+
+1461533874 source:c:\users\t.s\desktop\latest project 2.0\src\light.cpp
+	"Light.h"
+	<vector>
+
+1460066370 c:\users\t.s\desktop\latest project 2.0\include\light.h
+	<GL/glut.h>
+
+1462276465 source:c:\users\t.s\desktop\latest project 2.0\src\mouse.cpp
+	"mouse.h"
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1462268850 c:\users\t.s\desktop\latest project 2.0\include\mouse.h
+	"point.h"
+	"Sphere.h"
+	<vector>
+	"plane.h"
+	"helperCollision.h"
+
+1461533044 source:c:\users\t.s\desktop\latest project 2.0\src\movement.cpp
+	<GL/glut.h>
+	<iostream>
+	<math.h>
+	"Movement.h"
+
+1461533044 c:\users\t.s\desktop\latest project 2.0\include\movement.h
+
+1460927770 source:c:\users\t.s\desktop\latest project 2.0\src\myvector.cpp
+	"myVector.h"
+	<math.h>
+
+1462274351 source:c:\users\t.s\desktop\latest project 2.0\src\plane.cpp
+	<vector>
+	<iostream>
+	<cmath>
+	"mouse.h"
+	"plane.h"
+	"Sphere.h"
+	"myVector.h"
+	"helperCollision.h"
+
+1460924944 source:c:\users\t.s\desktop\latest project 2.0\src\point.cpp
+	"myVector.h"
+
+1461879534 source:c:\users\t.s\desktop\latest project 2.0\src\score.cpp
+	"score.h"
+
+1462206912 c:\users\t.s\desktop\latest project 2.0\include\score.h
+
+1462203506 source:c:\users\t.s\desktop\latest project 2.0\src\sphere.cpp
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	"Sphere.h"
+	"point.h"
+
+1462208956 source:c:\users\t.s\desktop\latest project 2.0\src\world.cpp
+	"world.h"
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"imageloader.h"
+
+1462185838 c:\users\t.s\desktop\latest project 2.0\include\world.h
+	"helperCollision.h"
+	"plane.h"
+	<vector>
+
+1462276553 source:c:\users\t.s\desktop\latest project 2.0\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"world.h"
+	"Light.h"
+	"Charecter.h"
+	"mouse.h"
+	<thread>
+	"ObjLoader.h"
+	"animation.h"
+	<mmsystem.h>
+	"Canon.h"
+	"item.h"
+	"collision.h"
+	"helperCollision.h"
+	<string>
+
+1462214253 source:c:\users\t.s\desktop\latest project 2.0\src\objloader.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<istream>
+	<sstream>
+	<stdio.h>
+	<GL/glut.h>
+	"point.h"
+	"ObjLoader.h"
+	"face.h"
+
+1462714174 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"world.h"
+	"Light.h"
+	"Charecter.h"
+	"mouse.h"
+	<thread>
+	"ObjLoader.h"
+	"animation.h"
+	<mmsystem.h>
+	"Canon.h"
+	"item.h"
+	"collision.h"
+	"helperCollision.h"
+	"Bullet.h"
+	<string>
+
+1462646393 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\world.h
+	"helperCollision.h"
+	"plane.h"
+	<vector>
+
+1461888520 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\helpercollision.h
+	"Sphere.h"
+	"plane.h"
+	<vector>
+
+1462488184 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\sphere.h
+	"point.h"
+	"Collidable.h"
+	<vector>
+
+1460920086 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\point.h
+
+1462140586 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\collidable.h
+
+1462140678 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\plane.h
+	<vector>
+	"point.h"
+	"myVector.h"
+	"Collidable.h"
+
+1460920570 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\myvector.h
+	"point.h"
+
+1460059170 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\light.h
+	<GL/glut.h>
+
+1462188430 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\charecter.h
+	"animation.h"
+	"ObjLoader.h"
+	"Sphere.h"
+	<string>
+
+1461881162 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\animation.h
+
+1462206238 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\objloader.h
+	<string>
+	<vector>
+	"point.h"
+	"face.h"
+
+1461592806 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\face.h
+
+1462491423 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\mouse.h
+	"point.h"
+	"Sphere.h"
+	<vector>
+	"plane.h"
+	"helperCollision.h"
+
+1461889148 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\canon.h
+
+1462126528 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\item.h
+	"point.h"
+
+1460354602 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\collision.h
+	"Sphere.h"
+	"plane.h"
+	"point.h"
+
+1462485932 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\animation.cpp
+	"animation.h"
+
+1462479764 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\canon.cpp
+	"Canon.h"
+	<GL/freeglut.h>
+
+1462269034 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\charecter.cpp
+	"Charecter.h"
+	"ObjLoader.h"
+	<windows.h>
+	<GL/glut.h>
+	"animation.h"
+	<string>
+	"ObjLoader.h"
+
+1462140678 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\collidable.cpp
+	"Collidable.h"
+
+1460918190 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\collision.cpp
+	<math.h>
+	"collision.h"
+	"point.h"
+	"Sphere.h"
+	"plane.h"
+
+1461596428 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\face.cpp
+	"face.h"
+
+1461884384 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\gameworld.cpp
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"gameworld.h"
+	"charecter.h"
+
+1460056070 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\gameworld.h
+
+1462491554 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\helpercollision.cpp
+	"helperCollision.h"
+	"point.h"
+	"plane.h"
+	"Sphere.h"
+	<vector>
+	<math.h>
+
+1460283028 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1460359660 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\imageloader.h
+
+1462267538 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\item.cpp
+	"item.h"
+	<math.h>
+	<GL/glut.h>
+	<iostream>
+
+1461526674 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\light.cpp
+	"Light.h"
+	<vector>
+
+1462662698 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\mouse.cpp
+	"mouse.h"
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1461525844 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\movement.cpp
+	<GL/glut.h>
+	<iostream>
+	<math.h>
+	"Movement.h"
+
+1461525844 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\movement.h
+
+1460920570 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\myvector.cpp
+	"myVector.h"
+	<math.h>
+
+1462207052 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\objloader.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<istream>
+	<sstream>
+	<stdio.h>
+	<GL/glut.h>
+	"point.h"
+	"ObjLoader.h"
+	"face.h"
+
+1462267150 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\plane.cpp
+	<vector>
+	<iostream>
+	<cmath>
+	"mouse.h"
+	"plane.h"
+	"Sphere.h"
+	"myVector.h"
+	"helperCollision.h"
+
+1460917744 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\point.cpp
+	"myVector.h"
+
+1461872334 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\score.cpp
+	"score.h"
+
+1462199712 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\score.h
+
+1462488614 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\sphere.cpp
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	"Sphere.h"
+	"point.h"
+
+1462718942 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\world.cpp
+	"world.h"
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"imageloader.h"
+
+1462481952 source:c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\src\bullet.cpp
+	"Bullet.h"
+	"point.h"
+	<iostream>
+
+1462489730 c:\users\nkanyiso\documents\nkanyiso\ukzn\3rd year\semester 1\comp315\project\latest project 2.0\latest project 2.0\include\bullet.h
+	"Sphere.h"
+	"plane.h"
+	"helperCollision.h"
+
+1462858239 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"world.h"
+	"Light.h"
+	"Charecter.h"
+	"mouse.h"
+	<thread>
+	"ObjLoader.h"
+	"animation.h"
+	<mmsystem.h>
+	"Canon.h"
+	"item.h"
+	"collision.h"
+	"helperCollision.h"
+	"Bullet.h"
+	"AnimeConrolla.h"
+	"Charecter.h"
+	"score.h"
+	<string>
+
+1462800802 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\world.h
+	"helperCollision.h"
+	"plane.h"
+	<vector>
+
+1462833510 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\helpercollision.h
+	"Sphere.h"
+	"plane.h"
+	"Charecter.h"
+	<vector>
+
+1462829360 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\sphere.h
+	"point.h"
+	"Collidable.h"
+	<vector>
+	<string>
+
+1462800807 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\point.h
+
+1462800833 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\collidable.h
+
+1462852622 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\plane.h
+	<vector>
+	"point.h"
+	"myVector.h"
+	"Collidable.h"
+
+1462800813 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\myvector.h
+	"point.h"
+
+1462800818 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\light.h
+	<GL/glut.h>
+
+1462839077 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\charecter.h
+	"animation.h"
+	"ObjLoader.h"
+	"Sphere.h"
+	<string>
+
+1462834868 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\animation.h
+	"point.h"
+
+1462800811 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\objloader.h
+	<string>
+	<vector>
+	"point.h"
+	"face.h"
+
+1462800829 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\face.h
+
+1462848726 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\mouse.h
+	"point.h"
+	"Sphere.h"
+	"score.h"
+	<vector>
+	"plane.h"
+	"helperCollision.h"
+
+1462800836 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\canon.h
+
+1462848794 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\item.h
+	"point.h"
+	"ObjLoader.h"
+
+1462800831 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\collision.h
+	"Sphere.h"
+	"plane.h"
+	"point.h"
+
+1462839425 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\bullet.h
+	"Sphere.h"
+	"plane.h"
+	"helperCollision.h"
+
+1462834822 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\animation.cpp
+	"animation.h"
+
+1462843268 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\bullet.cpp
+	"Bullet.h"
+	"point.h"
+	<iostream>
+	"Sphere.h"
+	"plane.h"
+	"Charecter.h"
+	<vector>
+
+1462800876 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\canon.cpp
+	"Canon.h"
+	<GL/freeglut.h>
+
+1462840024 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\charecter.cpp
+	"Charecter.h"
+	"ObjLoader.h"
+	<windows.h>
+	<GL/glut.h>
+	"animation.h"
+	<string>
+	"ObjLoader.h"
+
+1462800872 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\collidable.cpp
+	"Collidable.h"
+
+1462800870 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\collision.cpp
+	<math.h>
+	"collision.h"
+	"point.h"
+	"Sphere.h"
+	"plane.h"
+
+1462800868 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\face.cpp
+	"face.h"
+
+1462800867 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\gameworld.cpp
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"gameworld.h"
+	"charecter.h"
+
+1462800827 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\gameworld.h
+
+1462833744 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\helpercollision.cpp
+	"helperCollision.h"
+	"point.h"
+	"plane.h"
+	"Sphere.h"
+	"Bullet.h"
+	<vector>
+	<math.h>
+
+1462800863 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1462800823 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\imageloader.h
+
+1462849003 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\item.cpp
+	"item.h"
+	<math.h>
+	<GL/glut.h>
+	<iostream>
+
+1462800859 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\light.cpp
+	"Light.h"
+	<vector>
+
+1462845467 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\mouse.cpp
+	"mouse.h"
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1462800855 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\movement.cpp
+	<GL/glut.h>
+	<iostream>
+	<math.h>
+	"Movement.h"
+
+1462800815 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\movement.h
+
+1462800853 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\myvector.cpp
+	"myVector.h"
+	<math.h>
+
+1462800851 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\objloader.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<istream>
+	<sstream>
+	<stdio.h>
+	<GL/glut.h>
+	"point.h"
+	"ObjLoader.h"
+	"face.h"
+
+1462852651 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\plane.cpp
+	<vector>
+	<iostream>
+	<cmath>
+	"mouse.h"
+	"plane.h"
+	"Sphere.h"
+	"myVector.h"
+	"helperCollision.h"
+
+1462800848 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\point.cpp
+	"myVector.h"
+
+1462845908 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\score.cpp
+	"score.h"
+	<string>
+	<iostream>
+
+1462849047 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\score.h
+	<string>
+	<iostream>
+
+1462829360 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\sphere.cpp
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	"Sphere.h"
+	"point.h"
+
+1462800842 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\world.cpp
+	"world.h"
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"imageloader.h"
+
+1462858837 source:c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\src\animeconrolla.cpp
+	"AnimeConrolla.h"
+	"animation.h"
+	<GL/freeglut.h>
+	<vector>
+	<iostream>
+
+1462829847 c:\users\t.s\desktop\psliders 3.0\psliders (the p is silent) 3.0\include\animeconrolla.h
+	"animation.h"
+	"Charecter.h"
+	"mouse.h"
+	<vector>
+
+1462858240 source:e:\psliders (the p is silent) 3.0\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"world.h"
+	"Light.h"
+	"Charecter.h"
+	"mouse.h"
+	<thread>
+	"ObjLoader.h"
+	"animation.h"
+	<mmsystem.h>
+	"Canon.h"
+	"item.h"
+	"collision.h"
+	"helperCollision.h"
+	"Bullet.h"
+	"AnimeConrolla.h"
+	"Charecter.h"
+	"score.h"
+	<string>
+
+1462800802 e:\psliders (the p is silent) 3.0\include\world.h
+	"helperCollision.h"
+	"plane.h"
+	<vector>
+
+1462833512 e:\psliders (the p is silent) 3.0\include\helpercollision.h
+	"Sphere.h"
+	"plane.h"
+	"Charecter.h"
+	<vector>
+
+1462829362 e:\psliders (the p is silent) 3.0\include\sphere.h
+	"point.h"
+	"Collidable.h"
+	<vector>
+	<string>
+
+1462800808 e:\psliders (the p is silent) 3.0\include\point.h
+
+1462800834 e:\psliders (the p is silent) 3.0\include\collidable.h
+
+1462852624 e:\psliders (the p is silent) 3.0\include\plane.h
+	<vector>
+	"point.h"
+	"myVector.h"
+	"Collidable.h"
+
+1462800814 e:\psliders (the p is silent) 3.0\include\myvector.h
+	"point.h"
+
+1462861314 e:\psliders (the p is silent) 3.0\include\charecter.h
+	"animation.h"
+	"ObjLoader.h"
+	"Sphere.h"
+	<string>
+
+1462861314 e:\psliders (the p is silent) 3.0\include\animation.h
+	"point.h"
+
+1462800812 e:\psliders (the p is silent) 3.0\include\objloader.h
+	<string>
+	<vector>
+	"point.h"
+	"face.h"
+
+1462800830 e:\psliders (the p is silent) 3.0\include\face.h
+
+1462800818 e:\psliders (the p is silent) 3.0\include\light.h
+	<GL/glut.h>
+
+1462848728 e:\psliders (the p is silent) 3.0\include\mouse.h
+	"point.h"
+	"Sphere.h"
+	"score.h"
+	<vector>
+	"plane.h"
+	"helperCollision.h"
+
+1462849048 e:\psliders (the p is silent) 3.0\include\score.h
+	<string>
+	<iostream>
+
+1462800836 e:\psliders (the p is silent) 3.0\include\canon.h
+
+1462848796 e:\psliders (the p is silent) 3.0\include\item.h
+	"point.h"
+	"ObjLoader.h"
+
+1462800832 e:\psliders (the p is silent) 3.0\include\collision.h
+	"Sphere.h"
+	"plane.h"
+	"point.h"
+
+1462839426 e:\psliders (the p is silent) 3.0\include\bullet.h
+	"Sphere.h"
+	"plane.h"
+	"helperCollision.h"
+
+1462861314 e:\psliders (the p is silent) 3.0\include\animeconrolla.h
+	"animation.h"
+	"Charecter.h"
+	"mouse.h"
+	<vector>
+
+1462834824 source:e:\psliders (the p is silent) 3.0\src\animation.cpp
+	"animation.h"
+
+1462860652 source:e:\psliders (the p is silent) 3.0\src\animeconrolla.cpp
+	"AnimeConrolla.h"
+	"animation.h"
+	<GL/freeglut.h>
+	<vector>
+	<iostream>
+
+1462843270 source:e:\psliders (the p is silent) 3.0\src\bullet.cpp
+	"Bullet.h"
+	"point.h"
+	<iostream>
+	"Sphere.h"
+	"plane.h"
+	"Charecter.h"
+	<vector>
+
+1462800876 source:e:\psliders (the p is silent) 3.0\src\canon.cpp
+	"Canon.h"
+	<GL/freeglut.h>
+
+1462840026 source:e:\psliders (the p is silent) 3.0\src\charecter.cpp
+	"Charecter.h"
+	"ObjLoader.h"
+	<windows.h>
+	<GL/glut.h>
+	"animation.h"
+	<string>
+	"ObjLoader.h"
+
+1462800872 source:e:\psliders (the p is silent) 3.0\src\collidable.cpp
+	"Collidable.h"
+
+1462800870 source:e:\psliders (the p is silent) 3.0\src\collision.cpp
+	<math.h>
+	"collision.h"
+	"point.h"
+	"Sphere.h"
+	"plane.h"
+
+1462800868 source:e:\psliders (the p is silent) 3.0\src\face.cpp
+	"face.h"
+
+1462800868 source:e:\psliders (the p is silent) 3.0\src\gameworld.cpp
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"gameworld.h"
+	"charecter.h"
+
+1462800828 e:\psliders (the p is silent) 3.0\include\gameworld.h
+
+1462833746 source:e:\psliders (the p is silent) 3.0\src\helpercollision.cpp
+	"helperCollision.h"
+	"point.h"
+	"plane.h"
+	"Sphere.h"
+	"Bullet.h"
+	<vector>
+	<math.h>
+
+1462800864 source:e:\psliders (the p is silent) 3.0\src\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1462800824 e:\psliders (the p is silent) 3.0\include\imageloader.h
+
+1462849004 source:e:\psliders (the p is silent) 3.0\src\item.cpp
+	"item.h"
+	<math.h>
+	<GL/glut.h>
+	<iostream>
+
+1462800860 source:e:\psliders (the p is silent) 3.0\src\light.cpp
+	"Light.h"
+	<vector>
+
+1462845468 source:e:\psliders (the p is silent) 3.0\src\mouse.cpp
+	"mouse.h"
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1462800856 source:e:\psliders (the p is silent) 3.0\src\movement.cpp
+	<GL/glut.h>
+	<iostream>
+	<math.h>
+	"Movement.h"
+
+1462800816 e:\psliders (the p is silent) 3.0\include\movement.h
+
+1462800854 source:e:\psliders (the p is silent) 3.0\src\myvector.cpp
+	"myVector.h"
+	<math.h>
+
+1462800852 source:e:\psliders (the p is silent) 3.0\src\objloader.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<istream>
+	<sstream>
+	<stdio.h>
+	<GL/glut.h>
+	"point.h"
+	"ObjLoader.h"
+	"face.h"
+
+1462852652 source:e:\psliders (the p is silent) 3.0\src\plane.cpp
+	<vector>
+	<iostream>
+	<cmath>
+	"mouse.h"
+	"plane.h"
+	"Sphere.h"
+	"myVector.h"
+	"helperCollision.h"
+
+1462800848 source:e:\psliders (the p is silent) 3.0\src\point.cpp
+	"myVector.h"
+
+1462845908 source:e:\psliders (the p is silent) 3.0\src\score.cpp
+	"score.h"
+	<string>
+	<iostream>
+
+1462829362 source:e:\psliders (the p is silent) 3.0\src\sphere.cpp
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	"Sphere.h"
+	"point.h"
+
+1462800842 source:e:\psliders (the p is silent) 3.0\src\world.cpp
+	"world.h"
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"imageloader.h"
+
+1462862728 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"world.h"
+	"Light.h"
+	"Charecter.h"
+	"mouse.h"
+	<thread>
+	"ObjLoader.h"
+	"animation.h"
+	<mmsystem.h>
+	"Canon.h"
+	"item.h"
+	"collision.h"
+	"helperCollision.h"
+	"Bullet.h"
+	"AnimeConrolla.h"
+	"Charecter.h"
+	"score.h"
+	<string>
+
+1462800802 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\world.h
+	"helperCollision.h"
+	"plane.h"
+	<vector>
+
+1462833512 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\helpercollision.h
+	"Sphere.h"
+	"plane.h"
+	"Charecter.h"
+	<vector>
+
+1462829362 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\sphere.h
+	"point.h"
+	"Collidable.h"
+	<vector>
+	<string>
+
+1462800808 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\point.h
+
+1462800834 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\collidable.h
+
+1462852624 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\plane.h
+	<vector>
+	"point.h"
+	"myVector.h"
+	"Collidable.h"
+
+1462800814 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\myvector.h
+	"point.h"
+
+1462861314 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\charecter.h
+	"animation.h"
+	"ObjLoader.h"
+	"Sphere.h"
+	<string>
+
+1462861314 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\animation.h
+	"point.h"
+
+1462800812 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\objloader.h
+	<string>
+	<vector>
+	"point.h"
+	"face.h"
+
+1462800830 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\face.h
+
+1462800818 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\light.h
+	<GL/glut.h>
+
+1462862804 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\mouse.h
+	"point.h"
+	"Sphere.h"
+	"score.h"
+	<vector>
+	"plane.h"
+	"helperCollision.h"
+
+1462849048 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\score.h
+	<string>
+	<iostream>
+
+1462800836 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\canon.h
+
+1462848796 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\item.h
+	"point.h"
+	"ObjLoader.h"
+
+1462800832 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\collision.h
+	"Sphere.h"
+	"plane.h"
+	"point.h"
+
+1462839426 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\bullet.h
+	"Sphere.h"
+	"plane.h"
+	"helperCollision.h"
+
+1462862804 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\animeconrolla.h
+	"animation.h"
+	"Charecter.h"
+	"mouse.h"
+	<vector>
+
+1462861316 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\animation.cpp
+	"animation.h"
+
+1462843270 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\bullet.cpp
+	"Bullet.h"
+	"point.h"
+	<iostream>
+	"Sphere.h"
+	"plane.h"
+	"Charecter.h"
+	<vector>
+
+1462800876 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\canon.cpp
+	"Canon.h"
+	<GL/freeglut.h>
+
+1462840026 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\charecter.cpp
+	"Charecter.h"
+	"ObjLoader.h"
+	<windows.h>
+	<GL/glut.h>
+	"animation.h"
+	<string>
+	"ObjLoader.h"
+
+1462800872 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\collidable.cpp
+	"Collidable.h"
+
+1462800870 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\collision.cpp
+	<math.h>
+	"collision.h"
+	"point.h"
+	"Sphere.h"
+	"plane.h"
+
+1462800868 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\face.cpp
+	"face.h"
+
+1462800868 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\gameworld.cpp
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"gameworld.h"
+	"charecter.h"
+
+1462800828 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\gameworld.h
+
+1462833746 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\helpercollision.cpp
+	"helperCollision.h"
+	"point.h"
+	"plane.h"
+	"Sphere.h"
+	"Bullet.h"
+	<vector>
+	<math.h>
+
+1462800864 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1462800824 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\imageloader.h
+
+1462849004 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\item.cpp
+	"item.h"
+	<math.h>
+	<GL/glut.h>
+	<iostream>
+
+1462800860 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\light.cpp
+	"Light.h"
+	<vector>
+
+1462845468 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\mouse.cpp
+	"mouse.h"
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1462800856 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\movement.cpp
+	<GL/glut.h>
+	<iostream>
+	<math.h>
+	"Movement.h"
+
+1462800816 c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\include\movement.h
+
+1462800854 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\myvector.cpp
+	"myVector.h"
+	<math.h>
+
+1462800852 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\objloader.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<istream>
+	<sstream>
+	<stdio.h>
+	<GL/glut.h>
+	"point.h"
+	"ObjLoader.h"
+	"face.h"
+
+1462852652 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\plane.cpp
+	<vector>
+	<iostream>
+	<cmath>
+	"mouse.h"
+	"plane.h"
+	"Sphere.h"
+	"myVector.h"
+	"helperCollision.h"
+
+1462800848 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\point.cpp
+	"myVector.h"
+
+1462845908 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\score.cpp
+	"score.h"
+	<string>
+	<iostream>
+
+1462829362 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\sphere.cpp
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	"Sphere.h"
+	"point.h"
+
+1462800842 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\world.cpp
+	"world.h"
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	"imageloader.h"
+
+1462863004 source:c:\users\nkanyiso\desktop\psliders (the p is silent) 3.0\src\animeconrolla.cpp
+	"AnimeConrolla.h"
+	"animation.h"
+	"mouse.h"
+	<GL/freeglut.h>
+	<vector>
+	<iostream>
+

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="NewWorld" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/NewWorld" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/NewWorld" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="A_new_man.obj" />
+		<Unit filename="BANCH.obj" />
+		<Unit filename="BLACK_JONES0.obj" />
+		<Unit filename="BLACKs_JONESt.obj" />
+		<Unit filename="Boom Boom Boom Boom.wav" />
+		<Unit filename="DX Theme Song.wav" />
+		<Unit filename="Hopsin-Ill_Mind_Of_Hopsin_7.wav" />
+		<Unit filename="Man.obj" />
+		<Unit filename="NewWorld.cbp" />
+		<Unit filename="NewWorld.depend" />
+		<Unit filename="NewWorld.layout" />
+		<Unit filename="Panda.wav" />
+		<Unit filename="brick.bmp" />
+		<Unit filename="bricks.bmp" />
+		<Unit filename="clouds.bmp" />
+		<Unit filename="girl.obj" />
+		<Unit filename="grass2.bmp" />
+		<Unit filename="include/AnimeConrolla.h" />
+		<Unit filename="include/Bullet.h" />
+		<Unit filename="include/Canon.h" />
+		<Unit filename="include/Charecter.h" />
+		<Unit filename="include/Collidable.h" />
+		<Unit filename="include/Light.h" />
+		<Unit filename="include/Movement.h" />
+		<Unit filename="include/ObjLoader.h" />
+		<Unit filename="include/Sphere.h" />
+		<Unit filename="include/animation.h" />
+		<Unit filename="include/collision.h" />
+		<Unit filename="include/face.h" />
+		<Unit filename="include/gameworld.h" />
+		<Unit filename="include/helperCollision.h" />
+		<Unit filename="include/imageloader.h" />
+		<Unit filename="include/item.h" />
+		<Unit filename="include/mouse.h" />
+		<Unit filename="include/myVector.h" />
+		<Unit filename="include/plane.h" />
+		<Unit filename="include/point.h" />
+		<Unit filename="include/score.h" />
+		<Unit filename="include/world.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mount.bmp" />
+		<Unit filename="mountClouds.bmp" />
+		<Unit filename="mountain.bmp" />
+		<Unit filename="mountain2.bmp" />
+		<Unit filename="mountains.bmp" />
+		<Unit filename="policeman.obj" />
+		<Unit filename="roof.bmp" />
+		<Unit filename="src/AnimeConrolla.cpp" />
+		<Unit filename="src/Bullet.cpp" />
+		<Unit filename="src/Canon.cpp" />
+		<Unit filename="src/Charecter.cpp" />
+		<Unit filename="src/Collidable.cpp" />
+		<Unit filename="src/Light.cpp" />
+		<Unit filename="src/Movement.cpp" />
+		<Unit filename="src/ObjLoader.cpp" />
+		<Unit filename="src/Sphere.cpp" />
+		<Unit filename="src/animation.cpp" />
+		<Unit filename="src/collision.cpp" />
+		<Unit filename="src/face.cpp" />
+		<Unit filename="src/gameworld.cpp" />
+		<Unit filename="src/helperCollision.cpp" />
+		<Unit filename="src/imageloader.cpp" />
+		<Unit filename="src/item.cpp" />
+		<Unit filename="src/mouse.cpp" />
+		<Unit filename="src/myVector.cpp" />
+		<Unit filename="src/plane.cpp" />
+		<Unit filename="src/point.cpp" />
+		<Unit filename="src/score.cpp" />
+		<Unit filename="src/world.cpp" />
+		<Unit filename="stones.bmp" />
+		<Unit filename="wall.bmp" />
+		<Unit filename="window.bmp" />
+		<Unit filename="windows.bmp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
